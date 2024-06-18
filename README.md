@@ -43,3 +43,43 @@ Answer the following questions based on your understanding of the installation a
 - Cite any references or sources you use in your answers.
 - Submit your completed assignment by 1st July 
 
+
+
+1.Installation of VS Code on Windows 11:
+To download and install Visual Studio Code on Windows 11, follow these steps:
+1. Go to the official Visual Studio Code website.
+2. Click on the download button for Windows.
+3. Once the download is complete, run the installer.
+4. Follow the installation wizard instructions.
+5. Open VS Code once the installation is done.
+
+2. First-time Setup:
+After installing VS Code, here are some initial configurations for an optimal coding environment:
+- Set up your preferred theme and color scheme.
+- Install useful extensions like Live Server or Prettier.
+- Customize your settings for font size, tab size, etc.
+
+3. User Interface Overview:
+- Activity Bar:Contains icons for different activities like file management, search, source control, and extensions.
+- Side Bar: Provides easy access to files, folders, and extensions.
+- Editor Group:Where you write your code.
+- Status Bar: Displays information like line endings, encoding, and language mode.
+
+4. Command Palette:
+The Command Palette in VS Code is accessed by pressing `Ctrl+Shift+P` or `Cmd+Shift+P` on Mac. It allows you to execute commands and perform various tasks like opening files, searching for symbols, and installing extensions.
+
+5. Extensions in VS Code:
+Extensions enhance VS Code's functionality. You can find, install, and manage extensions in the Extensions view. Essential extensions for web development include Live Server, ESLint, and Debugger for Chrome.
+
+6. Integrated Terminal:
+To open the integrated terminal in VS Code, press ``Ctrl+` ``. The integrated terminal allows you to run commands without leaving the editor, providing convenience and saving time compared to an external terminal.
+
+7. File and Folder Management:
+You can create, open, and manage files and folders in VS Code through the File Explorer in the Side Bar. Use `Ctrl+P` to quickly open files by name. To navigate between files and directories, use the File Explorer or switch tabs with `Ctrl+Tab`.
+
+8. To customize settings in VS Code, you can find them by clicking the gear icon or pressing `Ctrl+,`. For example, to change the theme, font size, and keybindings, go to Settings, adjust the Color Theme, Font Size, and Keyboard Shortcuts to your liking.
+
+9. For debugging, set up by creating a launch configuration in the Debug view, select the environment, and run the program in debug mode. Key features include breakpoints, watch variables, call stack, and debug console.
+
+10. To use Git in VS Code, install Git, initialize a repository in the Source Control view, stage changes, commit with a message, and push to GitHub for version control.
+
